@@ -59,7 +59,7 @@
 
 <div class="login-container">
     <!-- Logo -->
-    <img src="2c3d25ed-0e02-4cfb-b059-215a91699ad3.png" alt="APEC Logo">
+    <img src="images.png" alt="APEC Logo">
 
     <!-- Login Form -->
     <form action="login.php" method="POST">
